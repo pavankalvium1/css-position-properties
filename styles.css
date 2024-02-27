@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+  }
+  
+  header {
+    background-color: rgb(17, 188, 255);
+    color: rgb(255, 255, 255);
+    width: 100%;
+    padding-top: 5px, 5px; 
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+  }
+  
+  nav li {
+    margin: 0 1rem;
+  }
+  
+  nav a {
+    color: black;
+  }
+  
+  main {
+    padding: 4rem;
+  }
+  
+  .content {
+    position: relative;
+    top: 20px;
+    left: 20px;
+    border: 1px solid rgb(18, 133, 153);
+    padding: 18px;
+    margin-top: 60px; 
+  }
+  
